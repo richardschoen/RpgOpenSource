@@ -10,13 +10,6 @@
 {"CUSNUM":693829,"LSTNAM":"Thomas  ","INIT":"A N","STREET":"3 Dove Circle","CITY":"Casper","STATE":"WY","ZIPCOD":82609,"CDTLMT":9999,"CHGCOD":2,"BALDUE":0.00,"CDTDUE":0.00},
 {"CUSNUM":593029,"LSTNAM":"Williams","INIT":"E D","STREET":"485 SE 2 Ave ","CITY":"Dallas","STATE":"TX","ZIPCOD":75218,"CDTLMT":200,"CHGCOD":1,"BALDUE":25.00,"CDTDUE":0.00},
 {"CUSNUM":192837,"LSTNAM":"Lee     ","INIT":"F L","STREET":"5963 Oak St  ","CITY":"Hector","STATE":"NY","ZIPCOD":14841,"CDTLMT":700,"CHGCOD":2,"BALDUE":489.50,"CDTDUE":0.50},
-{"CUSNUM":583990,"LSTNAM":"Abraham ","INIT":"M T","STREET":"392 Mill St  ","CITY":"Isle  ","STATE":"MN","ZIPCOD":56342,"CDTLMT":9999,"CHGCOD":3,"BALDUE":500.00,"CDTDUE":0.00},
-{"CUSNUM":9,"LSTNAM":"Schoen  ","INIT":"JRS","STREET":"             ","CITY":"      ","STATE":"  ","ZIPCOD":0,"CDTLMT":0,"CHGCOD":0,"BALDUE":0.00,"CDTDUE":0.00},
-{"CUSNUM":650000,"LSTNAM":"Schoen  ","INIT":"RJS","STREET":"12 Main      ","CITY":"Mpls  ","STATE":"MN","ZIPCOD":0,"CDTLMT":0,"CHGCOD":0,"BALDUE":0.00,"CDTDUE":0.00},
-{"CUSNUM":777,"LSTNAM":"Richard ","INIT":"J  ","STREET":"Schoen       ","CITY":"      ","STATE":"  ","ZIPCOD":0,"CDTLMT":0,"CHGCOD":0,"BALDUE":0.00,"CDTDUE":0.00},
-{"CUSNUM":123456,"LSTNAM":"SchoenA ","INIT":"   ","STREET":"             ","CITY":"      ","STATE":"  ","ZIPCOD":0,"CDTLMT":0,"CHGCOD":0,"BALDUE":0.00,"CDTDUE":0.00},
-{"CUSNUM":123456,"LSTNAM":"SchoenA ","INIT":"   ","STREET":"             ","CITY":"      ","STATE":"  ","ZIPCOD":0,"CDTLMT":0,"CHGCOD":0,"BALDUE":0.00,"CDTDUE":0.00},
-{"CUSNUM":123456,"LSTNAM":"SchoenA ","INIT":"   ","STREET":"             ","CITY":"      ","STATE":"  ","ZIPCOD":0,"CDTLMT":0,"CHGCOD":0,"BALDUE":0.00,"CDTDUE":0.00},
-{"CUSNUM":5555,"LSTNAM":"XMLS    ","INIT":"   ","STREET":"             ","CITY":"      ","STATE":"  ","ZIPCOD":0,"CDTLMT":0,"CHGCOD":0,"BALDUE":0.00,"CDTDUE":0.00}
+{"CUSNUM":583990,"LSTNAM":"Abraham ","INIT":"M T","STREET":"392 Mill St  ","CITY":"Isle  ","STATE":"MN","ZIPCOD":56342,"CDTLMT":9999,"CHGCOD":3,"BALDUE":500.00,"CDTDUE":0.00}
 ]}
 
