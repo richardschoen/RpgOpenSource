@@ -1,5 +1,5 @@
       //-----------------------------------------------------------------
-      //  PROGRAM:    JSON1
+      //  PROGRAM:    JSONYAJL1
       //
       //  PURPOSE:    This is a JSON import program example.
       //              Gets JSON file from HTTPS site and write to CUSTCDT.
