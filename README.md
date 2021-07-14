@@ -8,5 +8,7 @@ The JSON1.RPGLE sample requires the YAJL library available from Scott Klement's 
 
 http://www.scottklement.com/yajl
 
+Sample JSON File
 
+https://github.com/richardschoen/RpgOpenSource/blob/main/qcustcdt.json
 
