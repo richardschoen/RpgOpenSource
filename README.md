@@ -11,8 +11,8 @@ CRTLIB LIB(RPGOPNSRC) TEXT('RPG Open Source Code Samples')
 CRTSRCPF FILE(RPGOPNSRC/SOURCE) RCDLEN(120)  
 ```
 
-# JSON1 RPGLE Example
-The JSON1.RPGLE sample requires the YAJL library available from Scott Klement's web site 
+# JSONYYAJL1 RPGLE Example (Renamed version of JSON1)
+The **JSONYAJL1.RPGLE** sample requires the YAJL library available from Scott Klement's web site. It also requires Python script: **pyreadwebpage.py** 
 
 http://www.scottklement.com/yajl
 
