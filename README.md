@@ -12,7 +12,9 @@ CRTSRCPF FILE(RPGOPNSRC/SOURCE) RCDLEN(120)
 ```
 
 # JSONYYAJL1 RPGLE Example (Renamed version of JSON1)
-The **JSONYAJL1.RPGLE** sample requires the YAJL library available from Scott Klement's web site. It also requires Python script: **pyreadwebpage.py** 
+The **JSONYAJL1.RPGLE** sample requires the YAJL library available from Scott Klement's web site. It also requires Python script: **pyreadwebpage.py** to be placed in IFS folder: **/rpgopensource**. Feel free to tweak as desired. 
+
+Scott Klement YAJL Site
 
 http://www.scottklement.com/yajl
 
