@@ -12,7 +12,7 @@ CRTSRCPF FILE(RPGOPNSRC/SOURCE) RCDLEN(120)
 
 ```
 
-#IBM i IFS Set Up
+# IBM i IFS Set Up
 ```
 
 MKDIR DIR('/rpgopensource') DTAAUT(*RWX) OBJAUT(*ALL)     
