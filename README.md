@@ -3,12 +3,20 @@ Using RPG and CL to Call Open Source Apps via the QSHONI commands: QSHEXEC, QSHP
 
 https://www.github.com/richardschoen/qshoni
 
-# IBM i Set up
+# IBM i Library Set up
 Create IBM i library and source file from 5250 session
 ```
 CRTLIB LIB(RPGOPNSRC) TEXT('RPG Open Source Code Samples') 
 
 CRTSRCPF FILE(RPGOPNSRC/SOURCE) RCDLEN(120)  
+
+```
+
+#IBM i IFS Set Up
+```
+
+MKDIR DIR('/rpgopensource') DTAAUT(*RWX) OBJAUT(*ALL)     
+
 ```
 
 # JSONYYAJL1 RPGLE Example (Renamed version of JSON1)
