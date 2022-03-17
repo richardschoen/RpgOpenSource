@@ -31,7 +31,7 @@ from sys import platform
 import os
 import time
 import traceback
-import ibm_db_dbi as db2 
+# import ibm_db_dbi as db2 
 import xlrd
 import csv
 import datetime as dt
