@@ -1,2 +1,5 @@
-#Listed below is a key that should work with the Python Fernet encryption
+# Listed below is a key that should work with the Python Fernet encryption.
+# Note: Possibly change it a bit for your specific needs.
+# You can place this in a file in a directory with your app or in a secure directory location
+# Or pass this in to your app. It's up to you.
 7a8Ow8JdeOSY5XXk6IrxXU8IrqjO92mzHAS1bpDgUID=
