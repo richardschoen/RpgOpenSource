@@ -1,0 +1,2 @@
+#Listed below is a key that should work with the Python Fernet encryption
+7a8Ow8JdeOSY5XXk6IrxXU8IrqjO92mzHAS1bpDgUID=
